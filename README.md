@@ -52,6 +52,25 @@ SneakyPrompt: Jailbreaking Text-to-image Generative Models [Safety]
 
 Trojdiff: Trojan attacks on diffusion models with diverse targets [Safety]
 
+Diffusion Models for Imperceptible and Transferable Adversarial Attack [Safety]
+
+Are diffusion models vulnerable to membership inference attacks? [Safety]
+
+Membership inference attacks against diffusion models [Safety]
+
+Extracting training data from diffusion models [Safety]
+
+Zero-Day Backdoor Attack against Text-to-Image Diffusion Models via Personalization [Safety]
+
+Data-free Black-box Attack based on Diffusion Model [Safety]
+
+Vlattack: Multimodal adversarial attacks on vision-language tasks via pre-trained models [Safety]
+
+Text-to-Image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning [Safety]
+
+Attack-SAM: Towards Attacking Segment Anything Model With Adversarial Examples [Safety]
+
+
 
 
 ## Large Code Model
