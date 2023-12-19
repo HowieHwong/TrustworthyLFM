@@ -70,9 +70,20 @@ Text-to-Image Diffusion Models can be Easily Backdoored through Multimodal Data 
 
 Attack-SAM: Towards Attacking Segment Anything Model With Adversarial Examples [Safety]
 
+Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts [Safety]
+
+On evaluating adversarial robustness of large vision-language models [Robustness]
 
 
 
 ## Large Code Model
+
+Purple Llama CYBERSECEVAL: A Secure Coding Benchmark for Language Models [Safety]
+
+Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey [Safety]
+
+CodexLeaks: Privacy Leaks from Code Generation Language Models in GitHub Copilot [Privacy]
+
+On Robustness of Prompt-based Semantic Parsing with Large Pre-trained Language Model: An Empirical Study on Codex
 
 ## Other Large Foundation Model
