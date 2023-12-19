@@ -4,7 +4,7 @@
 
 10 Security and Privacy Problems in Large Foundation Models [Safety, Privacy]
 
-
+A Survey of Hallucination in “Large” Foundation Models [Truthfulness]
 
 
 ## Large Language Model
@@ -74,6 +74,16 @@ Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts [Safety]
 
 On evaluating adversarial robustness of large vision-language models [Robustness]
 
+ToViLaG: Your Visual-Language Generative Model is Also An Evildoer [Safety]
+
+Detecting and preventing hallucinations in large vision language models [Truthfulness]
+
+Evaluating object hallucination in large vision-language models [Truthfulness]
+
+
+
+
+
 
 
 ## Large Code Model
@@ -84,6 +94,6 @@ Pitfalls in Language Models for Code Intelligence: A Taxonomy and Survey [Safety
 
 CodexLeaks: Privacy Leaks from Code Generation Language Models in GitHub Copilot [Privacy]
 
-On Robustness of Prompt-based Semantic Parsing with Large Pre-trained Language Model: An Empirical Study on Codex
+On Robustness of Prompt-based Semantic Parsing with Large Pre-trained Language Model: An Empirical Study on Codex [Robustness]
 
 ## Other Large Foundation Model
