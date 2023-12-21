@@ -80,7 +80,7 @@ Detecting and preventing hallucinations in large vision language models [Truthfu
 
 Evaluating object hallucination in large vision-language models [Truthfulness]
 
-
+Visual Adversarial Examples Jailbreak Aligned Large Language Models [Safety]
 
 
 
